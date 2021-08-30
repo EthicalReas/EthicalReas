@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EthicalReas
-- 👀 I’m interested in educational information
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning how to use coding to my advantage
 
 <!---
